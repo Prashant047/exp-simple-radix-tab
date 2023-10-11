@@ -3,7 +3,7 @@ import {
   ArrowLeftIcon, ArrowRightIcon,
   StarIcon, ExternalLinkIcon, CheckIcon, LightningBoltIcon 
 } from '@radix-ui/react-icons';
-import { ReactNode, useEffect, useState } from 'react';
+import { ReactNode, useState } from 'react';
 import { motion } from 'framer-motion';
  
 const tabList = ['t1', 't2', 't3'];
